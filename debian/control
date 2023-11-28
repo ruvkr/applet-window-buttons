@@ -1,0 +1,4 @@
+Package: applet-window-buttons
+Source: applet-window-buttons
+Maintainer: Michail Vourlakos <mvourlakos@gmail.com>
+Build-Depends: g++, cmake, extra-cmake-modules, qtbase5-dev, qtdeclarative5-dev, libkf5declarative-dev, libkf5plasma-dev, libkdecorations2-dev, gettext

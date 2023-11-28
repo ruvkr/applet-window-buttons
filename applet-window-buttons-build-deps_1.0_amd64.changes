@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Tue, 28 Nov 2023 22:04:08 +0530
+Source: applet-window-buttons-build-deps
+Binary: applet-window-buttons-build-deps
+Built-For-Profiles: noudeb
+Architecture: all
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Equivs Dummy Package Generator <root@rajibs-pc>
+Changed-By: Equivs Dummy Package Generator <root@rajibs-pc>
+Description:
+ applet-window-buttons-build-deps - build-dependencies for applet-window-buttons
+Changes:
+ applet-window-buttons-build-deps (1.0) unstable; urgency=low
+ .
+   * First version
+Checksums-Sha1:
+ e7a96e6e520037667840531eb06ca32d00a05831 2074 applet-window-buttons-build-deps_1.0_all.deb
+ 4418a3e2114d1d87340597d4b98fa5bd596c7f8c 5973 applet-window-buttons-build-deps_1.0_amd64.buildinfo
+Checksums-Sha256:
+ 0d0c152bbb579e2eb19aeb917a85a547cee5be7179c6fa0157ad484f7cc74bfd 2074 applet-window-buttons-build-deps_1.0_all.deb
+ b392d95a97cb31e614d69de16328c718502d9e0588dd8b69606e13371fb10f49 5973 applet-window-buttons-build-deps_1.0_amd64.buildinfo
+Files:
+ 0f347cfd86715ac721facca5aa5d3978 2074 devel optional applet-window-buttons-build-deps_1.0_all.deb
+ 5920c1ff2ddb353fdb1a2d5f53359c03 5973 devel optional applet-window-buttons-build-deps_1.0_amd64.buildinfo
